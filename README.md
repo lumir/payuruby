@@ -1,3 +1,9 @@
+Travis:
+[![Build Status](https://travis-ci.org/lumir/payuruby.svg)](https://travis-ci.org/lumir/payuruby)
+
+Coverall:
+[![Coverage Status](https://coveralls.io/repos/lumir/payuruby/badge.svg)](https://coveralls.io/r/lumir/payuruby)
+
 # Payuruby
 
 TODO: Write a gem description
